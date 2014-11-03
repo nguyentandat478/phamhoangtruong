@@ -1,0 +1,14 @@
+<<<<<<< .mine
+hello test
+
+pham hoangtruong=======
+hello  test 2
+
+
+
+Quach hoang mi
+
+
+>>>>>>> .r3
+
+
